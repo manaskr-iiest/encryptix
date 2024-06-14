@@ -6,7 +6,6 @@ int main() {
     float sum = 0;
     float mult = 1;
     float div = 1;
-    float Diff=0;
     int operation;
 
     cout << "Choose operation no :\n 1 + addition\n 2 - subtraction\n 3 * multiplication\n 4 / division\n enter operation no:";
